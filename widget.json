@@ -1,8 +1,8 @@
 {
-	"header": "header1",
-	"menu": "menu1",
+	"header": "header2",
+	"menu": "menu2",
 	"components": [
-		"button",
-		"text"
+		"text",
+		"button"
 	]
 }
