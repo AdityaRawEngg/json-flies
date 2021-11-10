@@ -1,5 +1,5 @@
 {
-    "header": "AppBarMain",
+    "header": "AppBarScore",
     "menu": "menu1",
     "components": ["Offers", "LegendComponent", "Featured", "NewsFeed"]
 }
